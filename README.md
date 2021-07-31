@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @m-motorwala30
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning python, web development and splunk.
-- 💞️
+- 💞️ New to web development, you can check out my first website: https://m-motorwala30.github.io/resume/
 - 📫 How to reach me : mmotorwala19@gmail.com
 
 <!---
